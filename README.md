@@ -87,7 +87,7 @@ The consolidated dataset contains:
 
 ## 🖥️ Dashboard Preview
 
-![Power BI Dashboard](./Screenshots/01_PowerBI_Dashboard.png)
+![Power BI Dashboard](./Screenshots/01_PowerBI_Dashboard.png) 
 
 ## 📌 Key Performance Indicators
 
@@ -187,7 +187,7 @@ SQL was used to:
 
 ### SQL Analysis Screenshot
 
-![SQL Analysis](./Screenshots/03_SQL_Analysis.png)
+![SQL Analysis](./Screenshots/03_SQL_Analysis.png) 
 
 ## 📉 Major Daily Market Declines
 
