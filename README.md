@@ -272,14 +272,12 @@ stock-market-analysis/
 │   ├── 02_Python_Analysis.png
 │   └── 03_SQL_Analysis.png
 │
-└── README.md
+└── README.mdData Analytics | Data Visualization**
 
-### Step 22 — Skills
-
-```markdown
 ## 🧠 Skills Demonstrated
 
 ### Data Analytics
+
 - Exploratory Data Analysis
 - Trend Analysis
 - Time-Series Analysis
@@ -288,6 +286,7 @@ stock-market-analysis/
 - Business Insights
 
 ### Python
+
 - Pandas
 - NumPy
 - Matplotlib
@@ -295,6 +294,7 @@ stock-market-analysis/
 - Feature Engineering
 
 ### SQL
+
 - PostgreSQL
 - Data Filtering
 - Sorting
@@ -302,6 +302,7 @@ stock-market-analysis/
 - Analytical Queries
 
 ### Power BI
+
 - KPI Cards
 - Line Charts
 - Column Charts
@@ -309,9 +310,13 @@ stock-market-analysis/
 - Dashboard Design
 - Interactive Reporting
 
+---
+
 ## 🔄 End-to-End Workflow
 
 **Raw Data → Python Cleaning → Feature Engineering → Python Analysis → PostgreSQL → SQL Analysis → Power BI Dashboard → Insights → GitHub Portfolio**
+
+---
 
 ## 🏁 Project Outcome
 
@@ -327,6 +332,8 @@ The project successfully transformed six years of historical NIFTY 50 data into 
 - Business insights
 - GitHub documentation
 
+---
+
 ## ⚠️ Data Interpretation & Limitations
 
 - The analysis is based on historical market data.
@@ -336,17 +343,23 @@ The project successfully transformed six years of historical NIFTY 50 data into 
 - Economic events, news sentiment and fundamental company data are not included.
 - This project is intended for analytical and portfolio purposes and not as investment advice.
 
+---
+
 ## 👩‍💻 Author
 
 ### Priyanka Patel
 
 **Data Analyst | Excel | SQL | Power BI | Python | Tableau**
 
+---
+
 ## 🎯 Final Project Objective
 
 The objective of this project was to build a complete, professional and portfolio-ready NIFTY 50 Stock Market Analytics solution demonstrating practical Data Analyst capabilities from raw data collection to final dashboard and business insights.
 
 **Python + PostgreSQL + SQL + Power BI + Excel + GitHub**
+
+---
 
 ## 🙏 Thank You
 
